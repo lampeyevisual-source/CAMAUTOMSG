@@ -1,0 +1,12 @@
+git init
+git status
+git add .
+git commit -m "Atualiza automação"
+git push -u origin master
+git remote -v
+git remote add origin https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git branch -M main
+git push -u origin main
+
+.gitignore
+git restore --staged data/

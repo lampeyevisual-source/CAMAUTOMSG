@@ -1,0 +1,12 @@
+perfil/
+app/msg/perfil/
+__pycache__/
+*.pyc
+.env
+
+.git_backup/
+data/session.json
+.env
+.env.*
+__pycache__/
+*.pyc
